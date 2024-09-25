@@ -1,3 +1,3 @@
 project 2
 <br>
-author -prakah naidu
+author -prakash naidu
